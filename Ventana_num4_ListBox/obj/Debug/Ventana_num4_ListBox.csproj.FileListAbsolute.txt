@@ -1,0 +1,20 @@
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\bin\Debug\Ventana_num4_ListBox.exe.config
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\bin\Debug\Ventana_num4_ListBox.exe
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\bin\Debug\Ventana_num4_ListBox.pdb
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.csproj.AssemblyReference.cache
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.Form1.resources
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.Properties.Resources.resources
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.csproj.GenerateResource.cache
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.exe
+C:\Users\Win 10\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.pdb
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\bin\Debug\Ventana_num4_ListBox.exe.config
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\bin\Debug\Ventana_num4_ListBox.exe
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\bin\Debug\Ventana_num4_ListBox.pdb
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.Form1.resources
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.Properties.Resources.resources
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.exe
+C:\Users\oscar\source\repos\Ventana_num4_ListBox\Ventana_num4_ListBox\obj\Debug\Ventana_num4_ListBox.pdb

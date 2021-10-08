@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventana_num4_ListBox", "Ventana_num4_ListBox\Ventana_num4_ListBox.csproj", "{8AC75734-2989-4C05-ADDA-81459DA003A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC75734-2989-4C05-ADDA-81459DA003A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC75734-2989-4C05-ADDA-81459DA003A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC75734-2989-4C05-ADDA-81459DA003A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC75734-2989-4C05-ADDA-81459DA003A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697FC2BC-669E-4568-9EC6-F239AADFB8B5}
+	EndGlobalSection
+EndGlobal
